@@ -1,5 +1,5 @@
 <h1 align="center">🐍📚💡<br>Exercícios com Python</h1>
-<p align="center">Um repositório para registrar a resolução de problemas de vários níveis de dificuldade, utilizando Python.</p>
+<p align="center">Um repositório para registrar a minha evolução na resolução de problemas, de vários níveis de dificuldade, utilizando Python.</p>
 <h2>😎 Motivação</h2>
 <p align="justify">Eu decidi iniciar os estudos em Python, inicialmente, porque é a principal linguagem utilizada nas aulas da minha nova faculdade. Na antiga faculdade em que eu estava, eu aprendi toda a base de lógica de programação com a Linguagem C que, na minha opinião, tem uma sintaxe e uma dinâmica um pouco diferente de Python. Eu precisei iniciar os meus estudos em Python para não ficar "para trás" nas aulas.</p>
 <p align="justify">Além disso, ao longo das aulas na nova universidade, eu percebi que existem muitas possibilidades do que se pode criar utilizando Python e isso me chamou muito a atenção, por isso resolvi me aprofundar mais nessa linguagem. Devo dizer também, que a linguagem estar em crescimento no mercado também foi um grande motivador, pois sei que estou investindo meu aprendizado em uma tecnologia que já é realidade mas que, ao mesmo tempo, ainda tem muito a crescer e a acrescentar no mundo da tecnologia.</p>
