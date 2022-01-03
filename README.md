@@ -19,7 +19,7 @@
   
   <li>Capítulo 2 - Preparando o Ambiente</li>
   <ul>
-    <li align="justify">Esse capítulo explica como configurar o ambiente de desenvolvimento para começar a programar com Python e, por isso, não subirei códigos referentes a esse capítulo no repositório</li>
+    <li align="justify">Esse capítulo explica como configurar o ambiente de desenvolvimento para começar a programar com Python, mas já possui alguns programas de exemplo simples, introduzindo os operadores aritméticos, as "regras" para criação de variáveis e algumas boas práticas.</li>
   </ul>
   
   <br>
