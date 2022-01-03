@@ -7,9 +7,11 @@
 <p align="justify">No momento, eu estou utilizando como base de estudos, o livro <b>'Introdução à Programação com Python - Algoritmos e lógica de programação para iniciantes, 3ª edição, Nilo Ney Coutinho Menezes'</b></p>
 <h2>🏁 Atualização de Progresso</h2>
 <p align="justify">Eu pretendo, ao longo do meu aprendizado, atualizar o README do projeto, pontuando quais assuntos eu já abordei. Será uma ótima oportunidade para registrar a minha evolução como programador e mostrar para vocês como andam os meus estudos.</p>
-<br>
+
 <strong>Obs: O enunciado de cada exercício resolvido estará comentado no início de todo programa.</strong>
+
 <br>
+
 <p align="justify">Até o momento, os seguintes capítulos do livro já foram abordados:</p>
 <ul>
   <li>Capítulo 1 - Motivação</li>
