@@ -1,4 +1,4 @@
-<h1 align="center">🐍📚💡<br>Exercícios com Python</h1>
+<h1 align="center">🐍📚💡<br>Aprendendo Python</h1>
 <p align="center">Um repositório para registrar a minha evolução na resolução de problemas, de vários níveis de dificuldade, utilizando Python.</p>
 <h2>😎 Motivação</h2>
 <p align="justify">Eu decidi iniciar os estudos em Python, inicialmente, porque é a principal linguagem utilizada nas aulas da minha nova faculdade. Na antiga faculdade em que eu estava, eu aprendi toda a base de lógica de programação com a Linguagem C que, na minha opinião, tem uma sintaxe e uma dinâmica um pouco diferente de Python. Eu precisei iniciar os meus estudos em Python para não ficar "para trás" nas aulas.</p>
