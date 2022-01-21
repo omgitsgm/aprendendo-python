@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="justify">Até o momento, os seguintes capítulos do livro já foram abordados:</p>
+<p align="justify">Até o momento, os seguintes capítulos do livro já foram estudados:</p>
 <ul>
   <li>Capítulo 1 - Motivação</li>
   <ul>
@@ -38,6 +38,13 @@
   <li>Capítulo 4 - Condições</li>
   <ul>
     <li align="justify">Assuntos: if, else, estruturas aninhadas e elif.</li>
+  </ul>
+  
+  <br>
+  
+  <li>Capítulo 5 - Repetições</li>
+  <ul>
+    <li align="justify">Assuntos: Contadores, acumuladores, operadores de atribuição especiais, interrompendo a repetição (break), repetições aninhadas e F-Strings</li>
   </ul>
   
   <br>
